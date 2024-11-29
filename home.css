@@ -149,10 +149,7 @@ footer {
     z-index: 1000;
 }
 
-footer:hover {
-    background-color: #020202;
-    color: #000;
-}
+
 
 /* Layout Adjustments */
 body {
@@ -250,8 +247,8 @@ footer {
     width: 100%;
     text-align: center;
     padding: 1rem;
-    background-color: #111;
     color: white;
+    background-color: #111;
     font-size: 0.9rem;
     z-index: 1000; /* Ensures the footer stays above other content */
 }
